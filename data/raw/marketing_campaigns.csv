@@ -1,0 +1,26 @@
+campaign_id,platform,campaign_name,start_date,end_date,budget
+1,Facebook Ads,Campaign_1,2023-08-19,2023-09-06,117832
+2,Flipkart Ads,Campaign_2,2023-10-09,2023-10-31,91782
+3,Google Ads,Campaign_3,2023-04-25,2023-05-02,465812
+4,Google Ads,Campaign_4,2024-03-13,2024-03-24,368536
+5,Amazon Ads,Campaign_5,2024-06-16,2024-07-11,183929
+6,Flipkart Ads,Campaign_6,2023-10-19,2023-11-08,452782
+7,Amazon Ads,Campaign_7,2023-07-26,2023-08-04,343494
+8,Instagram,Campaign_8,2023-04-01,2023-04-30,405403
+9,Amazon Ads,Campaign_9,2024-11-22,2024-12-01,200719
+10,Flipkart Ads,Campaign_10,2024-09-22,2024-10-02,59904
+11,Instagram,Campaign_11,2024-05-20,2024-05-28,195828
+12,Flipkart Ads,Campaign_12,2023-12-16,2023-12-26,412292
+13,Flipkart Ads,Campaign_13,2024-01-21,2024-02-06,144794
+14,Google Ads,Campaign_14,2023-09-02,2023-10-02,249436
+15,Flipkart Ads,Campaign_15,2024-03-11,2024-03-20,57169
+16,Instagram,Campaign_16,2023-04-28,2023-05-20,459871
+17,Facebook Ads,Campaign_17,2024-06-14,2024-06-30,217823
+18,Amazon Ads,Campaign_18,2023-06-15,2023-06-30,492132
+19,Flipkart Ads,Campaign_19,2024-04-20,2024-04-30,164299
+20,Instagram,Campaign_20,2023-03-05,2023-03-24,482548
+21,Flipkart Ads,Campaign_21,2024-05-14,2024-05-27,62829
+22,Instagram,Campaign_22,2024-06-25,2024-07-17,150991
+23,Flipkart Ads,Campaign_23,2023-12-15,2024-01-08,343577
+24,Instagram,Campaign_24,2023-07-28,2023-08-09,159307
+25,Flipkart Ads,Campaign_25,2023-12-04,2024-01-01,429195
